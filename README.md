@@ -32,12 +32,13 @@ Step 2: Decide which mentors you’d like to be matched with. To view a list of 
 
 Step 3: Prepare your application materials. The applicant will need to submit the following information on the link provided in Step 4:
 
-A 500 word statement that describes the applicant’s
-current research interests and/or experiences,
-future career interests,
-how interactions with the host lab would help to advance their careers and/or support their professional development.
-We value diversity and recognize the importance of perspectives from people who come from different backgrounds and experiences. Please write a short statement explaining how your background and experiences bring a diverse perspective to SMBE.
-A CV or resume
+* A 500 word statement that describes the applicant’s
+   * current research interests and/or experiences,
+   * future career interests,
+   * how interactions with the host lab would help to advance their careers and/or support their professional development.
+* We value diversity and recognize the importance of perspectives from people who come from different backgrounds and experiences. Please write a short statement explaining how your background and experiences bring a diverse perspective to SMBE.
+* A CV or resume
+
 Step 4: Fill out the application at the [virtual lab meeting application form](https://forms.gle/QRWEYmtySQLvMFBX8).
 
 If you have trouble submitting the application with the google form, email smbe.virtual@gmail.com
