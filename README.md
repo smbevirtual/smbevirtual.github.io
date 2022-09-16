@@ -1,8 +1,8 @@
 # 2022-2023 Virtual Lab Meeting Training Program
 
-Science is an international endeavor! To promote equity and inclusion, SMBE is excited to announce a Virtual Lab Meeting Training Program! The goal of the program is to promote the exchange of ideas between labs with different academic cultures and make explicit efforts to connect students with faculty in the Molecular Biology and Evolution community across the globe. This program helps mentees develop an international supportive network, provides a pathway for future success, and broadens their knowledge in our field. Since many lab meetings have a virtual component, we thought this is an excellent time to take advantage of these unusual circumstances with a training program.
+Science is an international endeavor! To promote equity and inclusion, SMBE is excited to announce a Virtual Lab Meeting Training Program! In this program, SMBE seeks to provide training to graduate students and early postdoctoral researchers (“mentees”) by participating in lab meetings of a research group that shares their interests. The goal of the program is to promote the exchange of ideas between labs with different academic cultures and make explicit efforts to connect students with faculty in the Molecular Biology and Evolution community across the globe. This program helps mentees develop an international supportive network, provides a pathway for future success, and broadens their knowledge in our field. Since many lab meetings have a virtual component, this is an excellent time to launch a global training program.
 
-In this program, SMBE seeks to provide training to graduate students and early postdoctoral researchers (“mentees”) by participating in lab meetings of a research group that shares their interests. The mentee will participate by attending lab meetings during 2022-2023. A designated “mentor” from the research group will dedicate portions of two lab meetings to the mentee’s professional development. The format for lab meetings dedicated to the mentee’s professional development is flexible, but could take the form of grant application statements, research presentation, lead paper discussion, etc.
+As part of the program, the mentee will participate by attending lab meetings during 2022-2023. A designated “mentor” from the research group will dedicate portions of two lab meetings to the mentee’s professional development. The format for lab meetings dedicated to the mentee’s professional development is flexible, but could take the form of grant application statements, research presentation, lead paper discussion, etc.
 
 ### THE FOLLOWING ARE REQUIREMENTS FOR PROGRAM COMPLETION:
 * Attendance at 10 lab meetings with portions of 2 lab meetings dedicated to mentee’s professional development before June 2023 (we envision this is approximately 10-20 hours of time total, depending on lab meeting lengths)
@@ -23,7 +23,7 @@ Five randomly selected trainees from the Global South will each receive $1000 pe
 
 ## INFORMATION FOR APPLICANTS
 ### ELIGIBILITY TO APPLY
-We welcome and encourage applications from all graduate students and postdoctoral researchers, regardless of where you are in the world! We welcome applicants regardless of institution or nationality, age, culture, race, ethnicity, gender identity or expression, national origin, disability, politics, religion, sex, sexual orientation, socio-economic status, or subculture. For more information, check out our [Statement of Values](http://www.smbe.org/smbe/ABOUT/ValueStatement.aspx). We aim to be able to place every applicant with a mentor. Note, however, that there are a limited number of stipends and applicants from the Global South will be prioritized.
+We welcome and encourage applications from all graduate students and postdoctoral researchers, regardless of where you are in the world! We welcome applicants regardless of institution, nationality, age, culture, race, ethnicity, gender identity or expression, disability, politics, religion, sex, sexual orientation, socio-economic status, or subculture. For more information, check out our [Statement of Values](http://www.smbe.org/smbe/ABOUT/ValueStatement.aspx). We aim to be able to place every applicant with a mentor. Note, however, that there are a limited number of stipends and applicants from the Global South will be prioritized.
 
 ### TO APPLY:
 Step 1: If you haven’t yet, please [join SMBE](https://www.smbe.org/smbe/MEMBERSHIP.aspx) (trainees from underrepresented regions can receive a free membership. If this is your situation, please email smbe.virtual@gmail.com). Please complete the following steps regardless of your current SMBE status (for example, if you are waiting for registration to process).
@@ -43,6 +43,6 @@ Step 4: Fill out the application at the [virtual lab meeting application form](h
 
 If you have trouble submitting the application with the google form, email smbe.virtual@gmail.com
 
-Applications are due 15 Oct. 2022. Lab meetings will take place between October 2022 and June 2023.
+**Applications are due 15 Oct. 2022. Lab meetings will take place between October 2022 and June 2023.**
 
 In the application, mentees will choose their top 3-4 choices for a mentor. The RCN will attempt to match applicants with their preferred mentor.
