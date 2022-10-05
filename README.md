@@ -47,6 +47,6 @@ Step 4: Fill out the application at the [virtual lab meeting application form](h
 
 If you have trouble submitting the application with the google form, email smbe.virtual@gmail.com
 
-**Applications are due 15 Oct. 2022. Lab meetings will take place between October 2022 and June 2023.**
+**Applications are due 19 Oct 2022. Lab meetings will take place between October 2022 and June 2023.**
 
 In the application, mentees will choose their top 3-4 choices for a mentor. The RCN will attempt to match applicants with their preferred mentor.
