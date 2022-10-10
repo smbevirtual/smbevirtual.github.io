@@ -32,7 +32,7 @@ Step 0: Register your interest [here](https://forms.gle/rsSnKdPLfBFGpiXX8) so we
 ### Once the mentor list is ready: 
 Step 1: If you haven’t yet, please [join SMBE](https://www.smbe.org/smbe/MEMBERSHIP.aspx) (trainees from underrepresented regions can receive a free membership. If this is your situation, please email smbe.virtual@gmail.com). Please complete the following steps regardless of your current SMBE status (for example, if you are waiting for registration to process).
 
-Step 2: Decide which mentors you’d like to be matched with. To view a list of mentors who have signed up for the program and their research interests, check out this table of interested mentors [[we will UPDATE after mentors sign up]] We encourage applicants to reach out to mentors who are not on the list and encourage them to sign up with the [SMBE lab meeting mentor sign-up form](https://forms.gle/RyZMbNrco1iv3imt8). 
+Step 2: Decide which mentors you’d like to be matched with. To view a list of mentors who have signed up for the program and their research interests, check out this table of interesting [mentors] (https://docs.google.com/spreadsheets/d/1isveoN1v7hOFUaWZgCAhzuw5ZEHF5WueLOjAcF0gq1Q/edit?usp=sharing) We encourage applicants to reach out to mentors who are not on the list and encourage them to sign up with the [SMBE lab meeting mentor sign-up form](https://forms.gle/RyZMbNrco1iv3imt8). 
 
 Step 3: Prepare your application materials. The applicant will need to submit the following information on the link provided in Step 4:
 
@@ -47,6 +47,6 @@ Step 4: Fill out the application at the [virtual lab meeting application form](h
 
 If you have trouble submitting the application with the google form, email smbe.virtual@gmail.com
 
-**Applications are due 19 Oct 2022. Lab meetings will take place between October 2022 and June 2023.**
+**Applications are due 21 Oct 2022. Lab meetings will take place between October 2022 and June 2023.**
 
-In the application, mentees will choose their top 3-4 choices for a mentor. The RCN will attempt to match applicants with their preferred mentor.
+In the application, mentees can choose their top 2-3 choices for a mentor. The RCN will attempt to match applicants with their preferred mentor.
