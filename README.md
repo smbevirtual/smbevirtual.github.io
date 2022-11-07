@@ -9,7 +9,7 @@ As part of the program, the mentee will participate by attending lab meetings du
 * Bi-monthly participation in professional development discussions in a virtual forum
 
 ### STIPEND
-Approved applicants will receive a $100 stipend (see information on eligibility and number of stipends available below).
+Approved applicants will receive a $100 stipend (see information on eligibility and number of stipends available below). Stipends will be distributed upon successful completion of the program. 
 
 ### OPPORTUNITY FOR TRAVEL/REGISTRATION AWARD FOR [SMBE 2023](https://www.smbe.org/smbe/MEETINGS/SMBE2023.aspx)
 Five randomly selected trainees from the Global South will each receive $1000 per trainee to put towards travel and registration fees for the SMBE 2023 meeting in Ferrara, Italy. Selection will take place in February/March 2023 to ensure timely award notification and travel arrangements. Mentees will have to complete several lab meetings by that point to be eligible for selection.
