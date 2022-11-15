@@ -25,6 +25,8 @@ Five randomly selected trainees from the Global South will each receive $1000 pe
 ### ELIGIBILITY TO APPLY
 We welcome and encourage applications from all graduate students and postdoctoral researchers, regardless of where you are in the world! We welcome applicants regardless of institution, nationality, age, culture, race, ethnicity, gender identity or expression, disability, politics, religion, sexual orientation, socio-economic status, or subculture. For more information, check out our [Statement of Values](http://www.smbe.org/smbe/ABOUT/ValueStatement.aspx). We aim to be able to place every applicant with a mentor. Note, however, that there are a limited number of stipends and applicants from the Global South will be prioritized.
 
+### DEADLINE PASSED, if you are interested in participating in 2023-2024, please register your interest [here](https://forms.gle/gCDf3korBjrqNN3A6)
+
 ### TO APPLY:
 
 Step 1: If you haven’t yet, please [join SMBE](https://www.smbe.org/smbe/MEMBERSHIP.aspx) (trainees from underrepresented regions can receive a free membership. If this is your situation, please email smbe.virtual@gmail.com). Please complete the following steps regardless of your current SMBE status (for example, if you are waiting for registration to process).
