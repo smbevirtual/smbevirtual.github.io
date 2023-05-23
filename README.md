@@ -23,7 +23,7 @@ Five randomly selected trainees from the Global South will each receive funding 
 
 ## INFORMATION FOR APPLICANTS
 ### ELIGIBILITY TO APPLY
-We welcome and encourage applications from all graduate students and postdoctoral researchers, regardless of where you are in the world! We welcome applicants regardless of institution, nationality, age, culture, race, ethnicity, gender identity or expression, disability, politics, religion, sexual orientation, socio-economic status, or subculture. For more information, check out our [Statement of Values](http://www.smbe.org/smbe/ABOUT/ValueStatement.aspx). We aim to be able to place every applicant with a mentor. Note, however, that there are a limited number of stipends and applicants from the Global South will be prioritized.
+We welcome and encourage applications from all graduate students and postdoctoral researchers, regardless of where you are in the world! We welcome applicants regardless of institution, nationality, age, culture, race, ethnicity, gender identity or expression, disability, politics, religion, sexual orientation, socio-economic status, or subculture. For more information, check out our [Statement of Values](http://www.smbe.org/smbe/ABOUT/ValueStatement.aspx). We aim to be able to place every applicant with a mentor. Note, however, that there are a limited number of stipends and new participants from the Global South will be prioritized.
 
 ### TO APPLY:
 
