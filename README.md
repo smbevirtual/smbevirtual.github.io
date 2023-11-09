@@ -29,7 +29,7 @@ We welcome and encourage applications from all graduate students and postdoctora
 
 Step 1: If you haven’t yet, please [join SMBE](https://www.smbe.org/smbe/MEMBERSHIP.aspx) (trainees from underrepresented regions can receive a free membership. If this is your situation, please email smbe.virtual@gmail.com). Please complete the following steps regardless of your current SMBE status (for example, if you are waiting for registration to process).
 
-Step 2: Please register your interest [here](https://forms.gle/gCDf3korBjrqNN3A6) so that we can email you when the mentor list becomes available. 
+Step 2: Please sign up [here](https://forms.gle/jQjBBL9Q8ux58Pt96) 
 
 We encourage applicants to reach out to mentors who are not on the list and encourage them to sign up with the [SMBE lab meeting mentor sign-up form](https://forms.gle/bK6Ry9DVDWVShAjbA). 
 
